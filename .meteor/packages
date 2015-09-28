@@ -19,8 +19,3 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 react
 accounts-ui
 accounts-password
-cosmos:browserify
-meteorhacks:npm
-
-
-npm-container
